@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: "post"
 title: "project start"
-date: 2021-11-17 +1
 categories: blog
 ---
 
