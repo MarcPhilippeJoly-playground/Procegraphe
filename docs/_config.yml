@@ -1,9 +1,8 @@
 theme: jekyll-theme-cayman
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "post"
-  values:
-    layout: "post"
-    author: "Marc Philippe Joly"
+    values:
+      layout: "post"
+      author: "Marc Philippe Joly"
