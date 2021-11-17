@@ -2,7 +2,7 @@
 
 From source code to graphs
 
-Note: the accent on "Procégraphe" is not a typo. This is written by a mad french guy who thinks strict ASCII is totally out of fashion.
+Note: the accent on "Procégraphe" is not a typo. This is written by a mad french guy who thinks strict USASCII is totally out of fashion.
 
 ## Usage
 
