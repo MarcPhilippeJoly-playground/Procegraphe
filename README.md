@@ -34,11 +34,19 @@ It may graph:
 - single **AppleSoft BASIC** utf8 file
 - single **LOGO** utf8 file
 - single **Graphisoft GDL** utf8 file
-- single POV-RAY file utf8 file
-- Python module as folder
-- Rust cargo
-- Full PHP + MySQL website on PHP as folder
+- single **POV-RAY** file utf8 file
+- **Python** module as folder
+- **Rust** cargo
+- Full **PHP + MySQL website on Apache** as folder
 
 ## Output formats
 
-- **DOT** for **Graphviz**
+- GraphViz **DOT**
+- **GraphML**
+- Gephi **GEXF**
+- GUESS **GDF**
+- **GML**
+- Pajek **NET**
+- UCINET **DL**
+- Tulip **TPL**
+- Netdraw **VNA**
